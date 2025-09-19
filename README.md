@@ -11,3 +11,4 @@ Here are some things about me:
 - 📫 How to reach me: Discord.com, my ID is aarav_2022
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always eat Maggi while coding! So.. I eat Maggi almost all the time! 😁
+![Shark](shark.gif)
