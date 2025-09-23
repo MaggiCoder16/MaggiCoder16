@@ -8,7 +8,7 @@ Here are some things about me:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on BotLi (A highly configurable interface between Lichess API and UCI chess engines https://github.com/Torom/BotLi)
 - 💬 Ask me about coding :)
-- 📫 How to reach me: Discord.com, my ID is aarav_2022
+- 📫 How to reach me: Discord.com, my ID is aarav_2022. Lichess.org, my id is aarav_2022 :)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always eat Maggi while coding! So.. I eat Maggi almost all the time! 😁
 ![Shark](shark.gif)
